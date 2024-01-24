@@ -24,7 +24,7 @@
 
 ## Selected Projects
 
-🛰️ [RapidEarth](https://web.rapid.earth/): Fast Index-Aware Classification for Remote Sensing
+🛰️ [RapidEarth](https://dl.acm.org/doi/10.1145/3589132.3625601): Fast Index-Aware Classification for Remote Sensing
 
 📦 [HyperNN](https://github.com/mlde-ms/hypernn): Hyperbox-based Classification with Deep Learning
 

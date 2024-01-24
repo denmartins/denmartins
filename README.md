@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Denis Martins](https://denmartins.github.io/)
 
-⚡ I am a passionate Postdoc Researcher working on data-intense systems and machine learning. I am currently working at the [Machine Learning and Data Engineering](https://www.wi.uni-muenster.de/department/dasc) group at the University of Münster.
+⚡ I am a passionate AI Researcher working on data-intense systems and machine learning. I am currently working at [Samsung Research Brazil](https://research.samsung.com/srbr).
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 

@@ -1,9 +1,6 @@
 # 👋 Hi there, I'm [Denis Martins](https://denmartins.github.io/)
 
-⚡ I am an AI Researcher working on data-intense systems and machine learning.
-
-🖥️ I am currently working as a professor at [PUC-Campinas](https://www.puc-campinas.edu.br/). Former Senior AI Specialist at [Samsung Research Brazil](https://research.samsung.com/srbr).
-
+⚡ I am a professor at [University of São Paulo](https://dcm.ffclrp.usp.br/) working on data systems and machine learning. Former Senior AI Specialist at [Samsung Research Brazil](https://research.samsung.com/srbr).
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
